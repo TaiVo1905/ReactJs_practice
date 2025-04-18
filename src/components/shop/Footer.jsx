@@ -66,7 +66,7 @@ function Footer () {
                     {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
                   </div>
                   <div className="payment-pic">
-                    <img src="img/payment-method.png" alt="" />
+                    <img src="../shop/img/payment-method.png" alt="" />
                   </div>
                 </div>
               </div>

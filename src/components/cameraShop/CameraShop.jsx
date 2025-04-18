@@ -7,12 +7,12 @@ class CameraShop extends Component {
       <div>
         <title>Camera Shop</title>
         <meta httpEquiv="Content-Type" content="text/html;charset=utf-8" />
-        <link rel="stylesheet" href="./css/style.css" />
+        <link rel="stylesheet" href="../css/style.css" />
         <div id="container">
           <div id="header">
             <div id="header-logo">
               <a href="http://www.nationallobsterhatchery.co.uk" className="h-logo">
-                <img src="images/lobster.png" />
+                <img src="../images/lobster.png" />
               </a>
               <h1 className="h-logo">This is header</h1>
               <div style={{clear: 'both'}} />
@@ -41,7 +41,7 @@ class CameraShop extends Component {
           <div id="content">
             {/* this is the content for menu */}
             <div id="left-content">
-              <h1>Category</h1>
+              <h4>Category</h4>
               <ul className="drop">
                 <li><a href="#">Menu item 1</a></li>
                 <li><a href="#">Menu item 2</a></li>
@@ -96,7 +96,7 @@ class CameraShop extends Component {
                     <div className="p-name"><a href="item.html">LUMIX DMC-G2</a></div>
                   </div>
                   <div className="p-img">
-                    <img src="images/mayanh1.jpg" width={200} height={200} />
+                    <img src="../images/mayanh1.jpg" width={200} height={200} />
                   </div>
                   <div className="text">
                     <div className="p-cat">DIGITAL CAMERA </div>
@@ -110,7 +110,7 @@ class CameraShop extends Component {
                     <div className="p-name"><a href="item.html">LUMIX DMC-G3</a></div>
                   </div>
                   <div className="p-img">
-                    <img src="images/mayanh2.jpg" width={200} height={200} />
+                    <img src="../images/mayanh2.jpg" width={200} height={200} />
                   </div>
                   <div className="text">
                     <div className="p-cat">DIGITAL CAMERA </div>
@@ -124,7 +124,7 @@ class CameraShop extends Component {
                     <div className="p-name"><a href="item.html">LUMIX DMC-G2</a></div>
                   </div>
                   <div className="p-img">
-                    <img src="images/mayanh3.jpg" width={200} height={200} />
+                    <img src="../images/mayanh3.jpg" width={200} height={200} />
                   </div>
                   <div className="text">
                     <div className="p-cat">DIGITAL CAMERA </div>
@@ -138,7 +138,7 @@ class CameraShop extends Component {
                     <div className="p-name"><a href="item.html">LUMIX DMC-G3</a></div>
                   </div>
                   <div className="p-img">
-                    <img src="images/mayanh2.jpg" width={200} height={200} />
+                    <img src="../images/mayanh2.jpg" width={200} height={200} />
                   </div>
                   <div className="text">
                     <div className="p-cat">DIGITAL CAMERA </div>
@@ -152,7 +152,7 @@ class CameraShop extends Component {
                     <div className="p-name"><a href="item.html">LUMIX DMC-G2</a></div>
                   </div>
                   <div className="p-img">
-                    <img src="images/mayanh3.jpg" width={200} height={200} />
+                    <img src="../images/mayanh3.jpg" width={200} height={200} />
                   </div>
                   <div className="text">
                     <div className="p-cat">DIGITAL CAMERA </div>

@@ -10,7 +10,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-1.jpg" alt="" />
+                          <img src="../shop/img/products/product-1.jpg" alt="" />
                           <div className="sale pp-sale">Sale</div>
                           <div className="icon">
                             <i className="icon_heart_alt" />
@@ -35,7 +35,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-2.jpg" alt="" />
+                          <img src="../shop/img/products/product-2.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -59,7 +59,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-3.jpg" alt="" />
+                          <img src="../shop/img/products/product-3.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -83,7 +83,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-4.jpg" alt="" />
+                          <img src="../shop/img/products/product-4.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -107,7 +107,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-5.jpg" alt="" />
+                          <img src="../shop/img/products/product-5.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -131,7 +131,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-6.jpg" alt="" />
+                          <img src="../shop/img/products/product-6.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -155,7 +155,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-7.jpg" alt="" />
+                          <img src="../shop/img/products/product-7.jpg" alt="" />
                           <div className="sale pp-sale">Sale</div>
                           <div className="icon">
                             <i className="icon_heart_alt" />
@@ -180,7 +180,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-8.jpg" alt="" />
+                          <img src="../shop/img/products/product-8.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>
@@ -204,7 +204,7 @@ function ProductSection() {
                     <div className="col-lg-4 col-sm-6">
                       <div className="product-item">
                         <div className="pi-pic">
-                          <img src="shop/img/products/product-9.jpg" alt="" />
+                          <img src="../shop/img/products/product-9.jpg" alt="" />
                           <div className="icon">
                             <i className="icon_heart_alt" />
                           </div>

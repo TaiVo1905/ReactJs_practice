@@ -20,7 +20,7 @@ function ShoppingCartSection () {
                     </thead>
                     <tbody>
                       <tr>
-                        <td className="cart-pic first-row"><img src="img/cart-page/product-1.jpg" alt="" /></td>
+                        <td className="cart-pic first-row"><img src="../shop/img/cart-page/product-1.jpg" alt="" /></td>
                         <td className="cart-title first-row">
                           <h5>Pure Pineapple</h5>
                         </td>
@@ -37,7 +37,7 @@ function ShoppingCartSection () {
                         <td className="close-td first-row" ><i className="ti-save" /></td>
                       </tr>
                       <tr>
-                        <td className="cart-pic"><img src="img/cart-page/product-2.jpg" alt="" /></td>
+                        <td className="cart-pic"><img src="../shop/img/cart-page/product-2.jpg" alt="" /></td>
                         <td className="cart-title">
                           <h5>American lobster</h5>
                         </td>
@@ -54,7 +54,7 @@ function ShoppingCartSection () {
                         <td className="close-td"><i className="ti-save" /></td>
                       </tr>
                       <tr>
-                        <td className="cart-pic"><img src="img/cart-page/product-3.jpg" alt="" /></td>
+                        <td className="cart-pic"><img src="../shop/img/cart-page/product-3.jpg" alt="" /></td>
                         <td className="cart-title">
                           <h5>Guangzhou sweater</h5>
                         </td>

@@ -18,8 +18,8 @@ function Header() {
                 <a href="#" className="login-panel"><i className="fa fa-user" />Login</a>
                 <div className="lan-selector">
                   <select className="language_drop" name="countries" id="countries" style={{width: '300px'}}>
-                    <option value="yt" data-image="img/flag-1.jpg" data-imagecss="flag yt" data-title="English">English</option>
-                    <option value="yu" data-image="img/flag-2.jpg" data-imagecss="flag yu" data-title="Bangladesh">German </option>
+                    <option value="yt" data-image="../shop/img/flag-1.jpg" data-imagecss="flag yt" data-title="English">English</option>
+                    <option value="yu" data-image="../shop/img/flag-2.jpg" data-imagecss="flag yu" data-title="Bangladesh">German </option>
                   </select>
                 </div>
                 <div className="top-social">
@@ -37,7 +37,7 @@ function Header() {
                 <div className="col-lg-2 col-md-2">
                   <div className="logo">
                     <a href="#">
-                      <img src="img/logo.png" alt="" />
+                      <img src="../shop/img/logo.png" alt="" />
                     </a>
                   </div>
                 </div>
@@ -66,7 +66,7 @@ function Header() {
                           <table>
                             <tbody>
                               <tr>
-                                <td className="si-pic"><img src="img/select-product-1.jpg" alt="" /></td>
+                                <td className="si-pic"><img src="../shop/img/select-product-1.jpg" alt="" /></td>
                                 <td className="si-text">
                                   <div className="product-selected">
                                     <p>₫60.00 x 1</p>
@@ -78,7 +78,7 @@ function Header() {
                                 </td>
                               </tr>
                               <tr>
-                                <td className="si-pic"><img src="img/select-product-2.jpg" alt="" /></td>
+                                <td className="si-pic"><img src="../shop/img/select-product-2.jpg" alt="" /></td>
                                 <td className="si-text">
                                   <div className="product-selected">
                                     <p>₫60.00 x 1</p>
